@@ -1,0 +1,25 @@
+Welcome to the 3D maze game. Let's begin:
+
+1. First you should set the properties in order to play.
+Please use the properties.xml and set the properties accordingly:
+generate algorithm - GrowingTreeLast/GrowingTreeRandom
+solve algorithm - DFS/BFS
+number of threads - int
+show - GUI/MVP
+
+2. The first step after loading the game is generating or loading a maze.
+If you have already played and saved a maze you can load it, if not the only option you have is to generate a new maze.
+
+3. After generating the maze please use the display button to see the maze you created.
+
+4. You can move right,left,forwards,backwards up and dows (use pgup/pgdn
+to go up or down and the arrows in the keyboard for the rest.
+
+5. In order to win you need to find Cheshire cat.
+
+6. You can use the clue button to receive the next step you should go,
+or you can also you the solve button to see the solution (This will end the game).
+
+7. After winning you can play a new game by doing the next steps 1-5.
+
+Enjoy! :)
